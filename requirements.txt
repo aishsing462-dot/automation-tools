@@ -1,0 +1,8 @@
+watchdog
+requests
+beautifulsoup4
+playwright
+schedule
+gitpython
+pywin32
+psutil
